@@ -5,6 +5,8 @@ nav:
     - 'The International House of Mojo': 'https://mixnmojo.com/features/sitefeatures/LucasArts-First-Words/2'
 
 theme:
+    logo: images/logo.svg
+    favicon: images/logo.svg
     name: 'material'
     palette:
 
