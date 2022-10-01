@@ -1,5 +1,6 @@
-☐ Add Max and Le Chuck animated GIFs to footer (Max to the left, Le Chuck to the right of the text)
-  ☐ Make easter egg (enable after finding something hidden in the docs, adding a sessionstorage token)
+✔ Add Max and Le Chuck animated GIFs to footer (Max to the left, Le Chuck to the right of the text) @done(22-10-01 19:13)
+  ✘ Make easter egg (enable after finding something hidden in the docs, adding a sessionstorage token)
+  @cancelled(22-10-01 19:07)
 ☐ 404 Page: Guybrush running out of air or Purple Tentacle taking over the world
 ☐ Either semi-hide "Here be dragons" text and fade in/out during hover (can probably be done with a bit of CSS goodness) or use the red marker/strikethrough
 
