@@ -2,7 +2,10 @@ site_name: SCUMM Notes
 repo_url: https://github.com/markusbkk/scumm-next/
 
 nav:
-    - 'The International House of Mojo': 'https://mixnmojo.com/features/sitefeatures/LucasArts-First-Words/2'
+    - 'The Future': 
+        'Tooling': 'Future/Tooling/index.md'
+        'Build System': 'Future/Build_System/index.md'
+    - '↪ The International House of Mojo': 'https://mixnmojo.com/features/sitefeatures/LucasArts-First-Words/2'
 
 theme:
     logo: images/logo.svg
