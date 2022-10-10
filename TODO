@@ -9,8 +9,16 @@
   ☐ Link to iMuse video/GitHub issue
   ☐ SCUMM University Handbook (either as PDF download or, better yet, converted to Markdown)
 
+☐ Add React based audio player with RSS/Cloud Storage streaming of favorite Lucas Arts music
+  ☐ Potentially needs a rework, replacing MKDocs with Docusaurus (or wrapping MKDocs into Docusaurus)
+
 Technical notes:
 
-How SCUMM renders screens/rooms: https://github.com/scummvm/scummvm/blob/master/engines/scumm/gfx.h#L78
+- How SCUMM renders screens/rooms: https://github.com/scummvm/scummvm/blob/master/engines/scumm/gfx.h#L78
+
+SCUMMAtlas:
+
+☐ Add REST API (/reload and such)
+☐ Add file monitor or hook into file monitor/other process via WAMP Bus (SCUMMAtlas could be the right place for the BUS though)
 
 GISMO = Good (Ole)/Gorgeous Interpreted Script Machine Operator/(Back) Online/Open (Sourced)
