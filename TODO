@@ -9,4 +9,8 @@
   ☐ Link to iMuse video/GitHub issue
   ☐ SCUMM University Handbook (either as PDF download or, better yet, converted to Markdown)
 
+Technical notes:
+
+How SCUMM renders screens/rooms: https://github.com/scummvm/scummvm/blob/master/engines/scumm/gfx.h#L78
+
 GISMO = Good (Ole)/Gorgeous Interpreted Script Machine Operator/(Back) Online/Open (Sourced)
